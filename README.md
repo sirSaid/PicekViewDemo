@@ -1,0 +1,3 @@
+# PicekViewDemo
+利用pickView简单的实现了随机点菜的Demo
+利用pickView简答的实现了点菜和随机点菜的小Demo，代码里有详细注释。
